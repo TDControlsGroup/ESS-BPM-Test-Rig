@@ -16,6 +16,9 @@
 		<Item Name="HP3488A Switch Unit" Type="Folder" URL="../HP3488A Switch Unit">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
+		<Item Name="HP8753C Network Analyser" Type="Folder" URL="../HP8753C Network Analyser">
+			<Property Name="NI.DISK" Type="Bool">true</Property>
+		</Item>
 		<Item Name="Prologix GPIB-USB controller" Type="Folder" URL="../Prologix GPIB-USB controller">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
@@ -23,6 +26,7 @@
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
+		<Item Name="MasterSlavePattern 1.vi" Type="VI" URL="../MasterSlavePattern 1.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
