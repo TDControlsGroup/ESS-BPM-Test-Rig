@@ -25,7 +25,6 @@
 		<Item Name="System SubVIs" Type="Folder" URL="../System SubVIs">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
-		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="MasterSlavePattern 1.vi" Type="VI" URL="../MasterSlavePattern 1.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
